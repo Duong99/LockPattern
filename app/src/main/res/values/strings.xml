@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">LockPattern</string>
+    <string name="next">Next</string>
+    <string name="confirm">Confirm</string>
+    <string name="clear">Clear</string>
+    <string name="set_screen_lock">Set screen lock</string>
+    <string name="screen_lock">Screen lock</string>
+    <string name="draw_an_unlock_pattern">Draw an unlock pattern</string>
+    <string name="draw_pattern_to_unlock">Draw pattern to unlock</string>
+    <string name="draw_pattern_again_to_confirm">Draw pattern again to confirm</string>
+    <string name="correct_password">Correct password</string>
+    <string name="incorrect_password">Incorrect password</string>
+
 </resources>
